@@ -1,15 +1,20 @@
-# Getting Started with Create React App
+# Getting Started with Float App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+To start local server for client side run: `npm start`
+
+Make sure to have backend repo running on [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To start backend run `rails s`
+Link here: https://github.com/mguachun/foaming-app
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
